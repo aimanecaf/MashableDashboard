@@ -7,6 +7,9 @@ This project is part of an analytical study conducted on behalf of Mashable, aim
 
 Here's the link of the project : [View the Plotly App](https://93c51250-f60f-4c63-95e4-5b5569b7a1f5.plotly.app/)
 
+<p align="center">
+  <img src="./assets/MashableDashboard.png" alt="Mashable Dashboard" width="500"/>
+</p>
 ## Project Goal & Process
 
 Our objective was to collaboratively build and evaluate predictive models for online news popularity.
