@@ -10,6 +10,7 @@ Here's the link of the project : [View the Plotly App](https://93c51250-f60f-4c6
 <p align="center">
   <img src="./assets/Mashable Dashboard.png" alt="Mashable Dashboard" width="500"/>
 </p>
+
 ## Project Goal & Process
 
 Our objective was to collaboratively build and evaluate predictive models for online news popularity.
